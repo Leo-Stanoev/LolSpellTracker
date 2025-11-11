@@ -1,6 +1,8 @@
 ## Lol Summoner Spell Tracker Overlay
 
-### A python script that runs and attaches an overlay only visible when LoL is in the foreground. It shows a list of enemies and their summoner spells
+### Summary
+
+A python script that runs and attaches an overlay only visible when LoL is in the foreground. It shows a list of enemies and their summoner spells
 
 ### Features
 
